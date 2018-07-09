@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: spring_boot_jpa_mysql
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Seethend
+Built-By: ds00543754
 Implementation-Vendor-Id: com.seeth
-Build-Jdk: 1.8.0_161
+Build-Jdk: 1.8.0_92
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/spring_boot_jpa_mysql
 Created-By: Maven Integration for Eclipse
